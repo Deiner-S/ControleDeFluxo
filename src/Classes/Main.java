@@ -1,5 +1,7 @@
 package Classes;
-
+/**
+ * @author Deiner.Rodrigues
+ */
 import java.util.Scanner;
 
 public class Main {
